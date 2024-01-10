@@ -1,0 +1,21 @@
+main.name = "GIVE ME A NAME HERE"
+main.lang = "en"
+main.whitelist = [
+  "ADD YOUR WIFI NETWORK HERE",
+  "ANOTHER_EXAMPLE_NETWORK",
+  "MAC ADDRESS WORKS AS WELL",
+]
+
+main.plugins.grid.enabled = true
+main.plugins.grid.report = true
+main.plugins.grid.exclude = [
+  "ADD YOUR WIFI NETWORK HERE"
+]
+
+ui.display.enabled = true
+ui.display.type = "waveshare_3"
+ui.display.color = "black"
+
+
+#This config.toml file has been created to work with pwnagotchi project. You just need to download it and make minor edits to get started quickly.
+#Anything in all CAPS needs editing. Leave everything else as is including the waveshare_3 even if you're running a waveshare 4.
