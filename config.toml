@@ -1,15 +1,13 @@
-main.name = "GIVE ME A NAME HERE"
+main.name = "GIVE_ME_A_NAME"
 main.lang = "en"
 main.whitelist = [
-  "ADD YOUR WIFI NETWORK HERE",
-  "ANOTHER_EXAMPLE_NETWORK",
-  "MAC ADDRESS WORKS AS WELL",
+  "YOUR_WIFI_NAME_GOES_HERE",
 ]
 
 main.plugins.grid.enabled = true
 main.plugins.grid.report = true
 main.plugins.grid.exclude = [
-  "ADD YOUR WIFI NETWORK HERE"
+  "YOUR_WIFI_NAME_GOES_HERE"
 ]
 
 ui.display.enabled = true
