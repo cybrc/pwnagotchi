@@ -16,5 +16,3 @@ ui.display.color = "black"
 
 bettercap.handshake = "/home/pi/handshakes"
 
-#This config.toml file is a basic configuration that has been slightly modified. You just need to download it and make minor edits to get started quickly.
-#Anything in all CAPS needs editing. Leave everything else as is.
